@@ -1,16 +1,11 @@
 [
   {
     "id": 1,
-    "email": "cristipop@yahoo.com",
-    "password": "$2a$10$h7m84ry/20EmxixtFgRC5uiLBpsqs9BQiWtrkc3SLesObINt3fQ0y"
-  },
-  {
-    "id": 2,
     "email": "sergiumarcus@yahoo.com",
     "password": "$2a$10$FU98ag7dAucuQzPzimRAfef7j3oDdbcmrjORNGhiy1peXWmKq1zMy"
   },
   {
-    "id": 3,
+    "id": 2,
     "email": "numeprenume@yahoo.com",
     "password": "$2a$10$.9fJeQ6IOinscoaQCdqw8O38I8LTi1aitnJhottrJtWj3QbwBwfz6"
   }
