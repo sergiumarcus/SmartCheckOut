@@ -15,24 +15,24 @@
     "id": 3,
     "productName": "Geaca de piele",
     "price": 99.9,
-    "weight":3020.50
+    "weight":3000.00
   },
   {
     "id": 4,
     "productName": "Monopoly",
     "price": 120.99,
-    "weight": 500.25
+    "weight": 500.00
   },
   {
     "id": 5,
     "productName": "Jack Daniela 0.75L",
     "price": 150,
-    "weight": 150.68
+    "weight": 760.00
   },
   {
     "id": 6,
     "productName": "Pepsi 2L",
     "price": 6.5,
-    "weight": 200.78
+    "weight": 2100.00
   }
 ]
